@@ -4,7 +4,7 @@ This project focuses on predicting the presence of heart disease in patients usi
 
 ---
 
-## 📁 Dataset
+ 📁 Dataset
 
 The dataset used in this project contains 303 records and 14 features related to patient health. These include:
 
