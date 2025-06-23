@@ -4,7 +4,7 @@ This project focuses on predicting the presence of heart disease in patients usi
 
 ---
 
- 📁 Dataset
+## 📁 Dataset
 
 The dataset used in this project contains 303 records and 14 features related to patient health. These include:
 
@@ -26,7 +26,7 @@ This dataset is widely recognized for benchmarking heart disease prediction mode
 
 ---
 
-##⭐ Machine Learning Models Used
+⭐ Machine Learning Models Used
 
 Several supervised learning models were trained and compared, including:
 
@@ -55,7 +55,7 @@ Each model was evaluated using performance metrics such as accuracy, precision, 
 
 ---
 
-##⭐ Conclusion
+⭐ Conclusion
 
 Machine learning offers an effective approach to predict heart disease based on clinical data. The results of this project highlight the potential of data-driven solutions in supporting healthcare professionals with early diagnosis and intervention.
 
